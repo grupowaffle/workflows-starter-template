@@ -1,0 +1,16 @@
+name: workflows-starter-template
+id: ari:cloud:compass:9233e69e-7513-4ba6-85e4-6ed93407817d:component/03297ee7-c2c5-4075-8a21-7bab22f1c6a2/67064023-842a-404d-9ecf-a7efe53a6849
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/grupowaffle/workflows-starter-template
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
